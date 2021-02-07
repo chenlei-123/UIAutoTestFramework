@@ -1,0 +1,3 @@
+- by: xpath
+  locator: "//*[@resource-id='com.xueqiu.android:id/home_search']"
+  action: click
